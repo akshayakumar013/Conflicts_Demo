@@ -1,1 +1,1 @@
-This is the code on your current branch
+This is the code on the incoming branch you are trying to merge
